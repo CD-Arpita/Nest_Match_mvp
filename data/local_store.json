@@ -1,0 +1,268 @@
+{
+  "profiles": [
+    {
+      "name": "Sakshi",
+      "age": 24,
+      "city": "Bengaluru",
+      "sleep_schedule": "Early bird (asleep before 11pm, up before 7am)",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Rarely have guests over",
+      "food_habits": "Vegetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 16000,
+      "id": "e40e6433-f764-4ef6-8384-a41e1aaf26d0"
+    },
+    {
+      "name": "Nayan",
+      "age": 24,
+      "city": "Pune",
+      "sleep_schedule": "Night owl (up past 1am regularly)",
+      "cleanliness_level": "Relaxed \u2014 clean when it visibly needs it",
+      "guest_frequency": "Frequent guests / regularly host",
+      "food_habits": "Non-vegetarian",
+      "smoking_drinking": "Social drinker, non-smoker",
+      "wfh_pattern": "Fully in-office",
+      "monthly_budget_inr": 14000,
+      "id": "ab94c416-2183-4d45-9752-c33a6bd740c6"
+    },
+    {
+      "name": "Gungun",
+      "age": 25,
+      "city": "Delhi",
+      "sleep_schedule": "Flexible / no fixed schedule",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Eggetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Fully work-from-home",
+      "monthly_budget_inr": 18000,
+      "id": "72d73613-4333-42f6-b1fd-aad2f8a0e32f"
+    },
+    {
+      "name": "Chunay",
+      "age": 27,
+      "city": "Mumbai",
+      "sleep_schedule": "Early bird (asleep before 11pm, up before 7am)",
+      "cleanliness_level": "Moderate \u2014 clean common areas weekly",
+      "guest_frequency": "Rarely have guests over",
+      "food_habits": "Non-vegetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 22000,
+      "id": "776c6ba9-9dc0-47f4-b5f4-bcf2f4adff67"
+    },
+    {
+      "name": "Pranjali",
+      "age": 25,
+      "city": "Bengaluru",
+      "sleep_schedule": "Flexible / no fixed schedule",
+      "cleanliness_level": "Moderate \u2014 clean common areas weekly",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Vegetarian",
+      "smoking_drinking": "Social drinker, non-smoker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 15000,
+      "id": "be80f3ba-f987-4ae7-bc9f-573e3c5801bb"
+    },
+    {
+      "name": "Arpita",
+      "age": 26,
+      "city": "Gurgaon",
+      "sleep_schedule": "Early bird (asleep before 11pm, up before 7am)",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Vegetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 15000,
+      "id": "667d2bef-1424-4e94-9a78-029ebb406d30"
+    },
+    {
+      "name": "Arpita",
+      "age": 26,
+      "city": "Gurgaon",
+      "sleep_schedule": "Early bird (asleep before 11pm, up before 7am)",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Vegetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 15000,
+      "id": "cb943312-3926-4b4b-850b-b0158392561f"
+    },
+    {
+      "name": "Arpita",
+      "age": 26,
+      "city": "Gurgaon",
+      "sleep_schedule": "Early bird (asleep before 11pm, up before 7am)",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Vegetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 15000,
+      "id": "55fe74d6-20a8-4b9f-9a86-c7d8fb925a3f"
+    },
+    {
+      "name": "Arpita",
+      "age": 26,
+      "city": "Gurgaon",
+      "sleep_schedule": "Early bird (asleep before 11pm, up before 7am)",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Vegetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 15000,
+      "id": "98210acb-9c9f-4c4e-bb26-24f2f4a95e89"
+    },
+    {
+      "name": "Arpita",
+      "age": 26,
+      "city": "Gurgaon",
+      "sleep_schedule": "Early bird (asleep before 11pm, up before 7am)",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Vegetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 15000,
+      "id": "4f2d201a-ddba-43dc-85b9-e65279d33828"
+    },
+    {
+      "name": "Arpita",
+      "age": 26,
+      "city": "Gurgaon",
+      "sleep_schedule": "Flexible / no fixed schedule",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Eggetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 15000,
+      "id": "68ce52f0-a3b7-4c6c-a8b8-69e652e42aa6"
+    },
+    {
+      "name": "arpita",
+      "age": 26,
+      "city": "Delhi",
+      "sleep_schedule": "Night owl (up past 1am regularly)",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Eggetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 15000,
+      "id": "f5641737-5210-478e-8731-920a4afcbf3c"
+    },
+    {
+      "name": "Arpita",
+      "age": 26,
+      "city": "Delhi",
+      "sleep_schedule": "Flexible / no fixed schedule",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Eggetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 15000,
+      "id": "84645347-7f4d-471d-ba3a-819e3a81803a"
+    },
+    {
+      "name": "Arpita",
+      "age": 26,
+      "city": "Delhi",
+      "sleep_schedule": "Flexible / no fixed schedule",
+      "cleanliness_level": "Very tidy \u2014 clean daily, everything has a place",
+      "guest_frequency": "Occasional guests (few times a month)",
+      "food_habits": "Vegetarian",
+      "smoking_drinking": "Non-smoker, non-drinker",
+      "wfh_pattern": "Hybrid (some days from home)",
+      "monthly_budget_inr": 15000,
+      "id": "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93"
+    }
+  ],
+  "scores": {
+    "68ce52f0-a3b7-4c6c-a8b8-69e652e42aa6|e40e6433-f764-4ef6-8384-a41e1aaf26d0": {
+      "score": 70,
+      "rationale": "Arpita\u2019s flexible sleep habits and occasional guests contrast with Sakshi\u2019s early\u2011to\u2011bed routine and rare guests, which could lead to daily friction. Other habits\u2014cleanliness, food choices, non\u2011smoking, hybrid work, and similar budgets\u2014align well, supporting a decent fit."
+    },
+    "e40e6433-f764-4ef6-8384-a41e1aaf26d0|f5641737-5210-478e-8731-920a4afcbf3c": {
+      "score": 55,
+      "rationale": "The biggest friction points are the opposite sleep schedules\u2014one stays up past 1\u202fam, the other goes to bed before 11\u202fpm\u2014and their guest habits, with one hosting a few times a month and the other rarely having guests. Aside from that, they share similar cleanliness levels, food choices, and budgets, so overall compatibility is moderate."
+    },
+    "ab94c416-2183-4d45-9752-c33a6bd740c6|f5641737-5210-478e-8731-920a4afcbf3c": {
+      "score": 45,
+      "rationale": "Their sleep schedules align, but one is very tidy while the other only cleans when things get messy, which can cause daily friction. Additionally, the other flatmate hosts guests regularly, whereas the first person prefers fewer visitors, so guest frequency is a major source of conflict. These two factors drive the relatively low compatibility score."
+    },
+    "84645347-7f4d-471d-ba3a-819e3a81803a|e40e6433-f764-4ef6-8384-a41e1aaf26d0": {
+      "score": 75,
+      "rationale": "Both are very tidy, don\u2019t smoke or drink, and have similar work and food habits, so they\u2019ll get along well in most day\u2011to\u2011day situations. The main friction points are their different sleep schedules and how often they host guests, which could create some daily conflict."
+    },
+    "84645347-7f4d-471d-ba3a-819e3a81803a|ab94c416-2183-4d45-9752-c33a6bd740c6": {
+      "score": 20,
+      "rationale": "The biggest clashes would be their very different sleep rhythms and cleanliness habits, both of which can lead to daily friction. Guest preferences also differ sharply, so the overall fit is low."
+    },
+    "72d73613-4333-42f6-b1fd-aad2f8a0e32f|84645347-7f4d-471d-ba3a-819e3a81803a": {
+      "score": 90,
+      "rationale": "Both candidates share the same sleep schedule, cleanliness, guest frequency, food habits, and smoking/drinking preferences, so they should coexist smoothly. The main factor is their budget difference, which is within 20%, so they\u2019re financially compatible as well."
+    },
+    "776c6ba9-9dc0-47f4-b5f4-bcf2f4adff67|84645347-7f4d-471d-ba3a-819e3a81803a": {
+      "score": 35,
+      "rationale": "Their sleep times and guest habits clash, and the big gap in budgets would likely cause tension. These two factors make sharing a flat difficult."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|e40e6433-f764-4ef6-8384-a41e1aaf26d0": {
+      "score": 70,
+      "rationale": "Arpita\u2019s flexible sleep pattern and occasional guests could clash with Sakshi\u2019s early\u2011bird routine and preference for a quieter home. These are the main points that lower the fit, but their shared tidiness, vegetarian diets, non\u2011smoking habits, hybrid work schedules and similar budgets keep the overall match fairly good."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|ab94c416-2183-4d45-9752-c33a6bd740c6": {
+      "score": 35,
+      "rationale": "Your schedules and cleaning habits differ a lot, and Nayan often hosts guests while Arpita keeps things tidy and flexible. These differences could lead to daily friction, especially around quiet hours and shared space. The budget and work patterns are compatible, so the main concerns are sleep, cleanliness, and guest frequency."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|72d73613-4333-42f6-b1fd-aad2f8a0e32f": {
+      "score": 90,
+      "rationale": "Both candidates have matching sleep schedules, cleanliness habits, and guest policies, which reduces daily friction. Their food preferences are compatible (vegetarian vs eggetarian) and their budgets differ by only 20%, so affordability is unlikely to be an issue. The main differences are minimal\u2014one works from home full\u2011time and the other part\u2011time\u2014so overall they should get along well."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|776c6ba9-9dc0-47f4-b5f4-bcf2f4adff67": {
+      "score": 55,
+      "rationale": "Arpita\u2019s flexible sleeping and very tidy habits clash with Chunay\u2019s early\u2011bird schedule and more relaxed cleaning routine, which can lead to daily friction. The larger gap in their monthly budgets also raises concerns about shared expenses. Overall, they\u2019re a moderate match but would need clear agreements on sleep and finances."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|be80f3ba-f987-4ae7-bc9f-573e3c5801bb": {
+      "score": 90,
+      "rationale": "Arpita and Pranjali align on sleep, food, guests, work, and budget, so daily life would be smooth. The only differences are Pranjali\u2019s moderate cleaning routine and occasional social drinking, which are minor compared to the strong match in other areas."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|667d2bef-1424-4e94-9a78-029ebb406d30": {
+      "score": 75,
+      "rationale": "Both candidates share the same tidy habits, guest policy, food choices, and lifestyle, so they would get along well. The main difference is their sleep patterns\u2014one is a flexible sleeper while the other is an early\u2011bird\u2014so there could be some minor friction around quiet hours. Overall, they\u2019re a good match, but the sleep schedule mismatch slightly lowers the score."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|cb943312-3926-4b4b-850b-b0158392561f": {
+      "score": 70,
+      "rationale": "Both candidates share identical habits in cleanliness, guests, food, smoking, work pattern, and budget, which means they would likely get along well. The main point of friction would be the sleep schedule: one is flexible while the other follows an early\u2011bird routine, which could lead to occasional clashes. Overall, they\u2019re a fairly good match, but the differing sleep patterns slightly lower the score."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|55fe74d6-20a8-4b9f-9a86-c7d8fb925a3f": {
+      "score": 70,
+      "rationale": "Both candidates share the same habits in cleanliness, guests, food, smoking, work pattern, and budget, so they would get along well in most areas. The main difference is their sleep schedules\u2014one is flexible while the other is an early\u2011bird\u2014so they might have some friction around quiet hours. Overall, they\u2019re a fairly good match, but the sleep\u2011time mismatch is the key factor that lowers the score."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|98210acb-9c9f-4c4e-bb26-24f2f4a95e89": {
+      "score": 70,
+      "rationale": "Both candidates share the same cleanliness, food habits, smoking/drinking preferences, work pattern, and budget, so they should get along well in most areas. The main potential friction point is their sleep schedules: one is an early\u2011bird with a fixed routine, while the other has no set schedule, which could lead to noise or wake\u2011up conflicts. Overall, they are fairly compatible, but the sleep\u2011time difference is the key factor that lowers the score."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|4f2d201a-ddba-43dc-85b9-e65279d33828": {
+      "score": 75,
+      "rationale": "Both candidates share the same cleanliness, guest policy, food habits, smoking/drinking preferences, work pattern, and budget, which are all strong points for compatibility. The main difference is their sleep schedules\u2014one is an early\u2011bird while the other has a flexible routine\u2014so there could be some minor friction around quiet hours. Overall, they should get along well, with the sleep schedule being the only notable factor that might need a quick chat before moving in."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|68ce52f0-a3b7-4c6c-a8b8-69e652e42aa6": {
+      "score": 95,
+      "rationale": "Both candidates have identical sleep schedules, cleanliness habits, guest frequency, smoking/drinking preferences, work patterns, and budgets. The only difference is that one prefers vegetarian food while the other is an eggetarian, which is a mild dietary variation that is unlikely to cause conflict. Overall, they are a very good match for flat\u2011sharing, with a score of 95."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|f5641737-5210-478e-8731-920a4afcbf3c": {
+      "score": 70,
+      "rationale": "Both candidates keep the flat tidy and have similar budgets, but one is a night owl while the other has no fixed schedule, which could cause friction over shared space usage. The only other difference is that one prefers vegetarian food and the other eats eggs, a mild dietary mismatch. Overall, they are fairly compatible but the sleep schedule mismatch is the main concern."
+    },
+    "38b903dd-75a7-4a6b-bb20-5a6b86c7ec93|84645347-7f4d-471d-ba3a-819e3a81803a": {
+      "score": 95,
+      "rationale": "Both candidates share the same sleep schedule, cleanliness, guest policy, smoking/drinking habits, work pattern, and budget, so they would coexist smoothly. The only difference is that one prefers vegetarian food while the other is eggetarian, which is a mild dietary variation and unlikely to cause conflict. Overall, they are a very good match for flat\u2011sharing."
+    }
+  }
+}
