@@ -30,11 +30,7 @@ st.title("\U0001F3E1 NestMatch")
 st.caption("Find a flatmate who actually fits \u2014 scored and explained by AI, not just listed.")
 
 if config.USE_LOCAL_STORE:
-    st.info(
-        "Running in **local demo mode** (no Supabase configured) \u2014 profiles are "
-        "saved to a local file, not a real database. Set `SUPABASE_URL` and "
-        "`SUPABASE_KEY` to switch to Supabase. See README.md.",
-        icon="\u2139\ufe0f",
+   
     )
 
 st.divider()
