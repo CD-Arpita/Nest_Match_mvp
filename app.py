@@ -29,9 +29,8 @@ st.set_page_config(page_title="NestMatch", page_icon="\U0001F3E1", layout="cente
 st.title("\U0001F3E1 NestMatch")
 st.caption("Find a flatmate who actually fits \u2014 scored and explained by AI, not just listed.")
 
-if config.USE_LOCAL_STORE:
    
-    )
+    
 
 st.divider()
 st.subheader("Your lifestyle profile")
